@@ -14,6 +14,7 @@ import {
   PercentCompleteBarColumn,
   BranchGraphColumn,
 } from 'react-cheetah-grid';
+import * as cheetahGrid from 'cheetah-grid';
 
 import type { BranchGraphCommand } from 'react-cheetah-grid';
 
